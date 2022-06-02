@@ -77,31 +77,7 @@
         <hr>
     </div>
     @endif
-    <img src="images/sleeping.png" class="koala"/>
-    <style>
-        .koala {
-            background-repeat: no-repeat;
-            position: absolute;
-            width: 170px;
-            height: 100px;
-            top: 183px;
-            right: 18%;
-        }
-    </style>
-    <img src="images/mlogo.png" class="logo"/>
-    <style>
-        .logo {
-            background-repeat: no-repeat;
-            background-position: center left;
-            background-size: cover;
-            opacity: 0.6;
-            position: absolute;
-            width: 83px;
-            height: 65px;
-            top: 9px;
-            left: 35px;
-        }
-    </style>
+    
         
     
 @endsection
